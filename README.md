@@ -17,3 +17,16 @@ Tracks the following stats live:
 Cycles through each stat every 3 seconds
 
 Displays the stats in the status bar
+
+## Installation
+
+Install through VSCode Extensions Marketplace
+Search for "Stats Tracker"
+
+## Release Notes
+
+### 1.0.0
+
+Initial release of Stat Tracker!
+Tracks & displays session coding stats
+Cycles through different stats every 3 seconds in the status bar
